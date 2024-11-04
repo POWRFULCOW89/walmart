@@ -26,3 +26,9 @@ node supplier.js
 
 ## Descripción
 El archivo `logger.js` es el servidor intermediario que loggea todos los mensajes y los reenvía. `inventory.js` es el cliente que manejaría el inventario dentro de nuestra empresa, mientras que `supplier.js` sería el cliente dentro de la infraestructura de nuestro proveedor de inventario. Tanto `inventory.js` como `supplier.js` tienen una línea de comandos que envía el mensaje ingresado al servidor.
+
+## EQUIPO 1
+* Diego Domínguez Melo
+* Juan José Baza Acosta
+* Irving de Jesús Lopez García
+* Oscar Gonzalez Arias
